@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+Class Hello #dev1
+ {
+	 Public static void main ()#dev1
+=======
 Class Hello #dev2
  {
 	 Public static void main ( #dev2)
+>>>>>>> 46e280efb1bb5d817964cfb756f1b61deab8a9a0
 
 	  {
 
